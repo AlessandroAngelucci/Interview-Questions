@@ -17,7 +17,7 @@ def main(array_a):
                 smallest_positive_int += 1  # Increment smallest positive integer
             else:  # If smallest positive integer is less than element
                 return smallest_positive_int  # Return smallest positive integer
-        return smallest_positive_int  # Return smallest positive integer if loop termninates without returning a value
+        return smallest_positive_int  # Return smallest positive integer if loop terminates without returning a value
 
 
 if __name__ == '__main__':
